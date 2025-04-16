@@ -277,7 +277,7 @@ ul li a:hover{
         height: 100px;
         margin-inline: 4px;
     }
-    .form{
+    #appointmentForm{
         width: 76%;
     }
     .detailCard{
