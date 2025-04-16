@@ -2,9 +2,7 @@ Lifeline Healthcare Clinic
 
 Welcome to the Lifeline Healthcare Clinic project. This is a responsive and user-friendly healthcare website designed to provide patients with easy access to clinic services. Built using HTML, CSS, and JavaScript, this website aims to streamline appointment bookings, provide doctor profiles, and facilitate communication between patients and clinic staff.
 
-🚀 Live Demo
-
-🌐 https://lifelinehealthcare.netlify.app/
+🚀 Live Demo 🌐 https://lifelinehealthcare.netlify.app/
 
 <--Key Features-->
 
